@@ -215,6 +215,43 @@ Redefinição do papel da munição cinética em uma plataforma orientada a ener
     dos canais Venturi primários, capacitores do reator e sistema de imersão do cockpit.
 
 ================================================================================
+1. O MOTOR DEFINITIVO DO F-38: CICLO HÍBRIDO PMJ (PLASMA MAGNETO-JET)
+================================================================================
+Arquitetura de propulsão integrada de ciclo fechado, projetada para eliminar o peso 
+de combustíveis fósseis volumosos e garantir empuxo contínuo desde o solo até a 
+estratosfera:
+
+* Fase 1: Decolagem e Baixa Velocidade (Indução Termonuclear Direta)
+  - Utilização de um núcleo de fusão de confinamento magnético leve.
+  - O ar externo capturado é superaquecido instantaneamente e expelido, gerando 
+    empuxo massivo sem queima de combustível fóssil.
+
+* Fase 2: Aceleração Supersônica e Hipersônica (Detonação Pulsada por Plasma - MHD)
+  - Campos magnéticos (MHD) desaceleram o ar supersônico de forma controlada.
+  - Ionização do ar em plasma e criação de ondas de detonação pulsada, permitindo 
+    operação estável em qualquer faixa de velocidade (Mach 5+).
+
+* Fase 3: Regime Quase-Espacial e Extremo (Foguete de Fusão Pura)
+  - Fechamento aerodinâmico das entradas de ar em altitudes estratosféricas extremas.
+  - Injeção de massa de reação interna (hélio-3/hidrogênio), transformando o motor 
+    em um propulsor de foguete de fusão pura para o vácuo ou borda do espaço.
+
+================================================================================
+2. CONTROLE DINÂMICO DA CAMADA LIMITE E GESTÃO DE ARRASTO
+================================================================================
+Utilização inteligente do fluxo de ar externo capturado por túneis alares e micro-poros:
+
+* Alimentação e Propulsão Coletiva:
+  - O ar capturado pelas entradas e dutos é canalizado diretamente para o núcleo do 
+    motor PMJ, atuando como massa de reação pesada para multiplicar o empuxo térmico.
+
+* Sucção por Micro-Poros (Gestão de Arrasto):
+  - Micro-poros espalhados pela pele da aeronave sugam a camada limite de ar estagnado 
+    durante o voo supersônico.
+  - Eliminação completa da turbulência e do arrasto parasita, permitindo que o F-38 
+    realize manobras e evasões violentas de 80G a 100G sem perda de energia cinética.
+
+================================================================================
 2. PERFIL HOMOGÊNEO E CIRÚRGICO DE GEOMETRIA ALAR
 ================================================================================
 Arquitetura monobloco com transição contínua e afunilamento preciso:
