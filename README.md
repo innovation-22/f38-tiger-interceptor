@@ -1,6 +1,6 @@
 import os
 
-# Garante que a pasta de documentos gerados exista
+
 os.makedirs("docs", exist_ok=True)
 
 f38_complete_specification = """# DOCUMENTO OFICIAL: F-38 "TIGER INTERCEPTOR" (AEI-8)
