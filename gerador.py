@@ -26,6 +26,33 @@ arquitetura quântica de mapeamento de alta precisão para detecção antecipada
     para o SR-92 B7, garantindo consciência situacional absoluta da dupla em ambiente hostil.
 
 ================================================================================
+1. ARQUITETURA DE SENSORES EMBUTIDOS (OCULTAÇÃO TOTAL)
+================================================================================
+Superação dos limites físicos das óticas tradicionais expostas:
+
+* Problema das Cúpulas Convencionais (Ex: Su-57 IRST):
+  - Domos ópticos salientes são destruídos por fricção térmica acima de Mach 3 
+    e sofrem fratura estrutural em manobras violentas acima de 80G.
+
+* Solução F-38 (Flush-Mounted Hidden AQ-SCAN):
+  - Eliminação completa de cúpulas salientes na fuselagem externa.
+  - O sensor quântico fica alojado internamente no nariz do caça, sob uma Janela 
+    Plana de Grafeno-Diamante Monocristalino perfeitamente nivelada (Flush) com a pele.
+
+================================================================================
+2. SISTEMA DE PROTEÇÃO TÉRMICA E OBTURAÇÃO Magnética
+================================================================================
+* Obturador Quântico em Nanossegundos:
+  - Blindagem magnética ativa que protege a ótica durante o voo hiperveloz.
+  - Varreduras realizadas em pulsos ultrarrápidos (microssegundos), permitindo 
+    mapeamento do espaço sem exposição ao estresse aerodinâmico prolongado.
+
+* Sensoriamento Quântico e Gravitacional:
+  - Detecção baseada em interferometria quântica e flutuações de massa.
+  - Rastreamento passivo de alvos stealth sem emissão de radar e imune a poeira, 
+    fumaça ou limites atmosféricos.
+
+================================================================================
 2. MÓDULO DE SUPRESSÃO ELETROMAGNÉTICA ATIVA (SEMA) - PEM/EMP FOCADO
 ================================================================================
 Desenvolvido para neutralização pré-emptiva, o SEMA atua antes do engajamento cinético 
