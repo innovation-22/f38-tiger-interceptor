@@ -4,7 +4,7 @@ import os
 os.makedirs("generated", exist_ok=True)
 
 report_content = """# DOCUMENTO OFICIAL: F-38 "TIGER INTERCEPTOR" (AEI-8)
-Orçamento: /???
+Orçamento:US$ 50 bilhões
 ERA QUÂNTICA: Sistemas de Varredura e Supressão Ativa
 Classificação: Ultra-Secreto / Proteção Mútua Assegurada
 Fase: Especificação Tática e Defesa Preventiva
