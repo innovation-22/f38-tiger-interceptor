@@ -3,7 +3,7 @@ import os
 # Cria o diretório 'generated' caso ele não exista
 os.makedirs("generated", exist_ok=True)
 
-report_content = """# DOCUMENTO OFICIAL: F-38 "TIGER INTERCEPTOR" (AEI-8)
+report_content = """# DOCUMENTO OFICIAL ESPECULATIVO : F-38 "TIGER INTERCEPTOR" (AEI-8)
 Orçamento:US$ 50 bilhões
 ERA QUÂNTICA: Sistemas de Varredura e Supressão Ativa
 Classificação: Ultra-Secreto / Proteção Mútua Assegurada
@@ -32,7 +32,7 @@ Superação dos limites físicos das óticas tradicionais expostas:
 
 * Problema das Cúpulas Convencionais (Ex: Su-57 IRST):
   - Domos ópticos salientes são destruídos por fricção térmica acima de Mach 3 
-    e sofrem fratura estrutural em manobras violentas acima de 80G.
+    e sofrem fratura estrutural em manobras violentas acima de 40G.
 
 * Solução F-38 (Flush-Mounted Hidden AQ-SCAN):
   - Eliminação completa de cúpulas salientes na fuselagem externa.
@@ -70,7 +70,7 @@ direto, desativando ameaças no solo ou mísseis em fase de lançamento:
 1. SISTEMA DE AGILIDADE DE FREQUÊNCIA E VARREDURA PREDITIVA (AFH-DE)
 ================================================================================
 Desenvolvido para sobrecarregar sistemas de aviônica e defesas cibernéticas 
-avançadas de aeronaves inimigas de 7ª Geração:
+avançadas de aeronaves inimigas de 8ª Geração:
 
 * Princípio de Funcionamento:
   - Intercepta assinaturas de comunicação e criptografia quântica de alvos em tempo real.
@@ -216,7 +216,7 @@ Integração simbiótica entre manobrabilidade inercial e defesa baseada em ener
 
 * Princípio de Funcionamento:
   - O computador de bordo coordena simultaneamente os túneis aerodinâmicos do Efeito Venturi 
-    (para curvas de 80G a 100G) e o acionamento dos feixes de energia defensivos.
+    (para curvas de 30G a 40G) e o acionamento dos feixes de energia defensivos.
 
 * Efeito Tático:
   - O F-38 pode executar manobras evasivas severas enquanto neutraliza ativamente o perseguidor 
@@ -276,7 +276,7 @@ Utilização inteligente do fluxo de ar externo capturado por túneis alares e m
   - Micro-poros espalhados pela pele da aeronave sugam a camada limite de ar estagnado 
     durante o voo supersônico.
   - Eliminação completa da turbulência e do arrasto parasita, permitindo que o F-38 
-    realize manobras e evasões violentas de 80G a 100G sem perda de energia cinética.
+    realize manobras e evasões violentas de 30G a 40G sem perda de energia cinética.
 
 ================================================================================
 2. PERFIL HOMOGÊNEO E CIRÚRGICO DE GEOMETRIA ALAR
@@ -288,7 +288,7 @@ Arquitetura monobloco com transição contínua e afunilamento preciso:
   - Afunilamento progressivo e contínuo (smooth tapering) a partir da fuselagem central 
     até as pontas das asas, sem degraus, juntas soltas ou ângulos vivos.
   - Distribuição harmônica das forças de compressão inercial durante manobras extremas 
-    de 80G a 100G, prevenindo pontos de estresse mecânico e fratura.
+    de 30G a 40G, prevenindo pontos de estresse mecânico e fratura.
   - Difração uniforme de ondas de radar, garantindo assinatura RCS nula.
 
 ================================================================================
@@ -326,7 +326,7 @@ Arquitetura de estabilização multidirecional e integração de defesa por ener
 
 * Distribuição Estrutural e Carga Aerodinâmica:
   - Subdivisão das superfícies verticais tradicionais em quatro estabilizadores angulados de perfil reduzido.
-  - Distribuição uniforme do estresse mecânico e de guinada (yaw) durante manobras extremas entre 80G e 100G.
+  - Distribuição uniforme do estresse mecânico e de guinada (yaw) durante manobras extremas entre 30G e 40G.
   - Eliminação de grandes pontos de torção estrutural na cauda, otimizando o fluxo nos canais Venturi.
 
 * Perfil Aerodinâmico e Redução de Arrasto:
@@ -347,7 +347,7 @@ Substituição de juntas mecânicas vulneráveis por integração estrutural dir
   - As quatro derivas (quad-tail) nascem diretamente da fuselagem do caça em uma peça 
     única moldada em liga de Quimera.
   - Ausência total de emendas, parafusos ou vãos expostos, eliminando pontos de fadiga 
-    e o risco catastrófico de fratura sob cargas extremas de 80G a 100G.
+    e o risco catastrófico de fratura sob cargas extremas de 30G a 40G.
   - Preservação da integridade estrutural e otimização do fluxo de ar direcionado aos canais Venturi.
 
 ================================================================================
