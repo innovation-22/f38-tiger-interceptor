@@ -3,15 +3,15 @@ import os
 
 os.makedirs("docs", exist_ok=True)
 
-f38_complete_specification = """# DOCUMENTO OFICIAL: F-38 "TIGER INTERCEPTOR" (AEI-8)
-PLATAFORMA DE INTERCEPTAÇÃO DE 7ª GERAÇÃO
+f38_complete_specification = """# DOCUMENTO OFICIAL ESPECULATIVO : F-38 "TIGER INTERCEPTOR" (AEI-8)
+PLATAFORMA DE INTERCEPTAÇÃO DE 8ª GERAÇÃO
 Classificação: Ultra-Secreto / Proteção Mútua Assegurada
 
 ================================================================================
 1. VISÃO GERAL E CONCEITO DE DESIGN
 ================================================================================
 O F-38 Tiger Interceptor representa o ápice da doutrina de defesa total e alta 
-manobrabilidade (80G - 100G). Desenhado sobre o conceito "Fly-Before-You-Buy" para 
+manobrabilidade (30G - 40G). Desenhado sobre o conceito "Fly-Before-You-Buy" para 
 integração modular de aviônica quântica, a plataforma elimina totalmente a dependência 
 de contramedidas físicas tradicionais e adota uma arquitetura focada em energia.
 
